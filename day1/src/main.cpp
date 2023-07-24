@@ -44,8 +44,17 @@ int main() {
                 sum += std::stoi(line);
             }
         }
+    } else {
+        std::cout << "Can't read file";
     }
     file.close();
     bubble_sort(elves_calories);
     std::cout << elves_calories.back() << std::endl;
+    size_t nb_elves = elves_calories.size();
+    int32_t three_last = 0;
+    for (size_t i = nb_elves - 1; i > nb_elves - 4; --i) {
+        std::cout << elves_calories[i] << " ";
+        three_last += elves_calories[i];
+    }
+    std::cout << "Total three elves with the most calories is: " << three_last;
 }

@@ -24,6 +24,7 @@ configure:
 
 build: configure
 	cmake --build $(BUILD_DIR) --verbose
+
 run: build
 	build/myProject
 
