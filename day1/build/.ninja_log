@@ -1,9 +1,0 @@
-# ninja log v5
-0	5	0	/home/hyderman/programming/advent-of-code2022/day1/build/CMakeFiles/cmake.verify_globs	1f5d142c7fec7803
-7	21	1690139641302968856	tests/CMakeFiles/day1_tests.dir/day1-tests.cpp.o	3da3a1df88324d42
-5	355	1690141963919611400	CMakeFiles/myProject.dir/src/main.cpp.o	3f215629e33c15d8
-356	394	1690141963959611400	myProject	14961329d4427926
-21	92	1690139641369635522	tests/day1_tests	eb73414facc905cc
-1	5	0	/home/hyderman/programming/advent-of-code2022/day1/build/CMakeFiles/cmake.verify_globs	1f5d142c7fec7803
-6	362	1690141994459611078	CMakeFiles/myProject.dir/src/main.cpp.o	3f215629e33c15d8
-362	402	1690141994499611078	myProject	14961329d4427926

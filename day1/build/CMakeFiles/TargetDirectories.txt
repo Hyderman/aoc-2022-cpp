@@ -1,6 +1,0 @@
-/home/hyderman/programming/advent-of-code2022/day1/build/CMakeFiles/myProject.dir
-/home/hyderman/programming/advent-of-code2022/day1/build/CMakeFiles/edit_cache.dir
-/home/hyderman/programming/advent-of-code2022/day1/build/CMakeFiles/rebuild_cache.dir
-/home/hyderman/programming/advent-of-code2022/day1/build/tests/CMakeFiles/day1_tests.dir
-/home/hyderman/programming/advent-of-code2022/day1/build/tests/CMakeFiles/edit_cache.dir
-/home/hyderman/programming/advent-of-code2022/day1/build/tests/CMakeFiles/rebuild_cache.dir
